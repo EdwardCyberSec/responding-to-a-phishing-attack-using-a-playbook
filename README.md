@@ -25,4 +25,6 @@ Be sure to address the following steps in your completed activity:
 <h2>Phishing Alert Ticket</h2>
 
 <p align="center">
-<img src="https://imgur.com/2lYvcYc.png" height="80%" width="80%" alt="Phishing Alert Ticket"/>
+
+![image](https://github.com/EdwardCyberSec/responding-to-a-phishing-attack-using-a-playbook/assets/160364234/4b86456f-9551-4a97-ae5f-51d07b86eca6)
+
